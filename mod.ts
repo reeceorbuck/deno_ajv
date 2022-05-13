@@ -1,1 +1,1 @@
-export * from "./generated/ajv7.bundle.js";
+export * from "./generated/ajv7.min.js";
